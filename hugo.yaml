@@ -1,6 +1,6 @@
 baseURL: https://disobey.dev/
 languageCode: en-us
-title: My New
+title: disobey.dev
 theme: ["PaperMod"]
 caches:   
  images:
