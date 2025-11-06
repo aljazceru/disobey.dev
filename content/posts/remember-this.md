@@ -1,4 +1,10 @@
-
+---
+title: "Remember this"
+date: 2024-01-15
+slug: "remember-this"
+tags: ["freedom", "cypherpunk"]
+draft: false
+---
 
 There will be times when the struggle seems impossible. I know this already. Alone, unsure, dwarfed by the scale of the enemy. Remember this.
 
