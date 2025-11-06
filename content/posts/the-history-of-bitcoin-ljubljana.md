@@ -1,11 +1,11 @@
 ---
-title: "A True Believer"
-date: 2025-08-14
-slug: "a-true-believer"
-tags: ["freedom", "cypherpunk"]
+title: "The History of Bitcoin Ljubljana"
+date: 2023-12-17
+slug: "the-history-of-bitcoin-ljubljana"
+tags: ["freedom", "bitcoin"]
 draft: false
 ---
-his started as a twitter thread that is now a long form article.
+This started as a [twitter thread](https://twitter.com/aaaljaz/status/1730632934036828442?ref=disobey.dev) that is now a long form article.
 
 In August 2021 a group of us who semi-regularly got together for beers and bitcoin-related discussions had a brilliant idea - why not make this a public event?
 
