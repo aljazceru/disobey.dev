@@ -18,6 +18,7 @@ I was part of the experiment called SEC-01, short for Sovereign Engineering Coho
 Experience
 
 ***nostr.net*** | Founder | Jan 2022 - Present
+
 Created nostr.net (biggest directory of all things nostr)
 Running various nostr infrastructure:
 
@@ -26,14 +27,17 @@ Running various nostr infrastructure:
 - nostr.at (http nostr gateway)
 
 ***Bolt Observer Inc*** | Founder | Feb 2022 - Present
+
 Pioneering enterprise lightning network solutions with automated liquidity management and data platform for businesses
 
 ***Bitcoin Ljubljana*** | Co-Founder | Aug 2021 - Sep 2023
+
 Built vibrant bitcoin community in Ljubljana
 Organized monthly bitcoin events and presentations
 Focused on educating newcomers in the space
 
 ***InSec*** | Owner | Nov 2014 - Jan 2023
+
 Consulting company focused on infrastructure and security. Some of the projects:
 
 - Datacenter planning and migration for major regional web hosting provider
@@ -41,6 +45,7 @@ Consulting company focused on infrastructure and security. Some of the projects:
 - Designing privacy infrastructure for anonymous cryptocurrency project
 
 ***Bitstamp*** | Head of Platform | Jan 2018 - Jun 2021
+
 Built System Operations department from scratch, later expanded the department with 5 additional teams - Security, Architecture, Quality Engineering, Data Engineering and Technical Support
 
 - [Scaling AWS infrastructure](https://aws.amazon.com/solutions/case-studies/bitstamp/)
@@ -51,19 +56,25 @@ Built System Operations department from scratch, later expanded the department w
 ### Previous Experience
 
 ***Zero Science Lab*** | Information Security Engineer (2012 - 2019)
+
 Security engineering, penetration testing, system administration
 
 ***Compucorp Ltd*** | DevOps Tech Lead (2016 - 2017)
+
 Implemented DevOps culture, AWS/Linux administration, automation
 
 ***cyberGRID GmbH*** | System Administrator (2015 - 2017)
+
 Infrastructure for Demand/Response solutions in energy grids
 
 ***NIL Data Communications*** | IT System Engineer (2011 - 2014)
+
 System administration, security automation, infrastructure management, backend development
 
 ***NETS d.o.o*** | System administrator (2010 - 2011)
+
 System administration, backend development in Java
 
 ***MMC Pulsar*** | IT support (2006 - 2010)
+
 Tech support, hardware and software repairs, website management, electronics, various projects (city wide wifi covereage, electronics designs for art installations, technical advisor for screen play)
