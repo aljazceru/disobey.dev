@@ -13,3 +13,6 @@ menu:
   - identifier: about-me
     name: About
     url: /about/
+  - identifier: talks-and-podcasts
+    name: Talks and Podcasts
+    url: /talks-and-podcasts/
