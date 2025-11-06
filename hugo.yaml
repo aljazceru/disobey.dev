@@ -5,3 +5,11 @@ theme: ["PaperMod"]
 caches:   
  images:
   dir: :cacheDir/images
+menu:
+ main:
+  - identifier: contact
+    name: Contact
+    url: /contact/
+  - identifier: about-me
+    name: About
+    url: /about/
