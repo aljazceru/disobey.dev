@@ -1,0 +1,7 @@
+baseURL: https://disobey.dev/
+languageCode: en-us
+title: My New
+theme: ["PaperMod"]
+caches:   
+ images:
+  dir: :cacheDir/images
