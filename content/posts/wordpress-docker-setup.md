@@ -5,19 +5,75 @@ slug: "wordpress-docker-setup"
 draft: false
 ---
 
-The author shares a Docker configuration for quickly deploying WordPress, developed while creating a WooCommerce extension. The setup involves two main components:
 
-## Docker Compose Configuration
 
-The article provides a `docker-compose.yml` file featuring a WordPress service and MySQL database. The WordPress container exposes port 12999 and connects to the database using environment variables. The setup includes volume mounting for `wp-content` directory and establishes networking between services using a bridge network called `wp-network`. The MySQL database is configured with persistent storage through named volumes.
+I've recently had the need to set up wordpress quickly for some testing while developing a new woocommerce extension and I've stupidly needed way more time than I hoped to have a working set up in docker so here's the setup.
 
-## Nginx Reverse Proxy Setup
+docker-compose.yml
 
-A critical configuration element involves setting up an Nginx reverse proxy with HTTPS support. The author emphasizes that "you need to set https headers for the proxy otherwise wordpress will serve the content back in mixed mode" and cause browser complaints.
+```yaml
+services:
+  wordpress:
+    image: wordpress:latest
+    container_name: wordpress
+    ports:
+      - "12999:80"  # Only expose HTTP to the host
+    environment:
+      WORDPRESS_DB_HOST: db:3306
+      WORDPRESS_DB_NAME: wordpress
+      WORDPRESS_DB_USER: wordpress
+      WORDPRESS_DB_PASSWORD: wordpresspass
+    volumes:
+      - ./wp-content:/var/www/html/wp-content/
+    networks:
+      - wp-network
+    depends_on:
+      - db
 
-Key proxy headers include:
-- `X-Forwarded-Proto https` for protocol preservation
-- HTTP/1.1 upgrade settings for connection compatibility
-- Host header configuration for proper routing
+  db:
+    image: mysql:5.7
+    container_name: mysql
+    environment:
+      MYSQL_DATABASE: wordpress
+      MYSQL_USER: wordpress
+      MYSQL_PASSWORD: wordpresspass
+      MYSQL_ROOT_PASSWORD: rootpass
+    volumes:
+      - db_data:/var/lib/mysql
+    networks:
+      - wp-network
 
-The configuration integrates with Let's Encrypt SSL certificates for HTTPS termination, creating a secure connection between the reverse proxy and clients while communicating with the containerized WordPress installation.
+volumes:
+  db_data:
+
+networks:
+  wp-network:
+    driver: bridge
+```
+nginx reverse proxy configuration. Key part is that you need to set https headers for the proxy otherwise wordpress will serve the content back in mixed mode and your browser will complain
+
+```yaml 
+server {
+    server_name <server_name>;
+
+    location / {
+        proxy_pass http://localhost:12999;
+        proxy_set_header X-Forwarded-Proto https;
+
+        proxy_http_version 1.1;
+        proxy_set_header Upgrade $http_upgrade;
+        proxy_set_header Connection 'upgrade';
+        proxy_set_header Host $host;
+        proxy_cache_bypass $http_upgrade;
+    }
+
+
+    listen 443 ssl; # managed by Certbot
+    ssl_certificate /etc/letsencrypt/live/<server_name>/fullchain.pem; 
+    ssl_certificate_key /etc/letsencrypt/live/<server_name>/privkey.pem; 
+    include /etc/letsencrypt/options-ssl-nginx.conf; 
+    ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem;
+
+}
+```
+

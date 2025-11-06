@@ -5,10 +5,13 @@ slug: "i-build-timeconvert-org"
 draft: false
 ---
 
-The author created a minimalist timestamp conversion website emphasizing simplicity and user experience. They describe the project as featuring "No cookies, no banners, no analytics, no frameworks, no junk. Good old web 1.0. html + css + javascript."
 
-The motivation stemmed from frustration with existing solutions. While acknowledging that epoch converter tools already exist, the creator found them problematic due to excessive popups and cookie consent requests. They wanted a streamlined alternative where users could "paste whatever time format I have and it will give me the alternatives."
+No cookies, no banners, no analytics, no frameworks, no junk. Good old web 1.0. html + css + javascript. -> [timecovert.org](https://timeconvert.org/?ref=disobey.dev)
 
-The author notes an interesting development decision-making process: after building the tool, they spent time analyzing keyword analytics and purchased a dedicated domain (timeconvert.org) specifically for hosting it. They humorously reflect on this scope creep, attributing it partly to how "LLM's are a big enabler of procrastination driven development."
+YesterdayA while back I've had one too many timestamp conversion cases to deal with while building some data ingestion pipeline and I've ended up creating this website to scratch my own itch.
 
-The site represents a deliberately back-to-basics approach to web development, prioritizing user privacy and simplicity over modern frameworks and tracking mechanisms.
+I know epoch converter exists but it has tons of popups/cookie consent banners, you need to paste into the correct text box and it just feels bulky. I wanted something to just paste whatever time format I have and it will give me the alternatives.
+
+Then while figuring out on which of my domains to publish this to have it handy I got carried away, looked at what would make sense given the keyword analytics and bought a domain. Because I obviously needed another one.
+
+LLM's are a big enabler of procrastination driven development.

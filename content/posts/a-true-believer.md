@@ -5,7 +5,4 @@ slug: "a-true-believer"
 tags: ["freedom", "cypherpunk"]
 draft: false
 ---
-
-The piece describes an idealized figure working tirelessly on liberation-focused technologies. This individual operates under severe constraints, using salvaged materials and working relentlessly toward their vision. The author emphasizes the builder's unwavering commitment, noting that "he builds what he knows, what inspires him" and remains focused on their cause rather than conventional work schedules or comfort.
-
-The narrative portrays someone deeply dedicated to their mission—building continues "when the enemy is gone"—and someone who views their work as their entire existence rather than a job with fixed hours. The characterization emphasizes resilience and singular focus on what the author frames as a freedom-oriented objective.
+Somewhere a True Believer is building tools to free you. He is building with minimum resources, in austere conditions, day and night. The only thing dear to him are his tools, and he made them from second hand parts. He doesn't worry about what to build - he builds what he knows, what inspires him. His building ends when the enemy is gone. The True Believer doesn't care how hard it is; he only knows that he wins or he dies. He doesn't go home at 1700; he is home. He knows only the cause.
