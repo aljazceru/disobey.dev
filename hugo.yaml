@@ -16,3 +16,6 @@ menu:
   - identifier: talks-and-podcasts
     name: Talks and Podcasts
     url: /talks-and-podcasts/
+  - identifier: tools
+    name: Tools
+    url: /tools/
