@@ -1,6 +1,6 @@
 ---
 title: "A Declaration of Separation"
-date: 2025-08-14
+date: 2025-07-14
 slug: "a-declaration-of-separation"
 tags: ["freedom", "cypherpunk"]
 draft: false
