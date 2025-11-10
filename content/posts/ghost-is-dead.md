@@ -1,6 +1,6 @@
 ---
 title: "Ghost is Dead"
-date: 2025-09-06
+date: 2025-11-08
 slug: "ghost-is-dead"
 tags: ["infrastructure", "blog"]
 draft: false
