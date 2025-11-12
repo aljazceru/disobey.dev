@@ -23,3 +23,6 @@ List of tools I've built and find useful, in no particular order:
 
 ### Azure firewall updater  
 [azure-firewall-updater](https://github.com/aljazceru/azure-firewall-updater) -  Add my current ip to azure firewalls allowed ip list
+
+### Tiny spark 
+[tiny-spark](https://github.com/aljazceru/tiny-spark) - CLI spark/LN wallet based on breez sdk

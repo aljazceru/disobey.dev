@@ -13,6 +13,9 @@ menu:
   - identifier: about-me
     name: About
     url: /about/
+- identifier: projects
+    name: Projects
+    url: /projects/    
   - identifier: talks-and-podcasts
     name: Talks and Podcasts
     url: /talks-and-podcasts/
