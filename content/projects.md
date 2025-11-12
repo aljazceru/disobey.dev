@@ -6,7 +6,7 @@ draft: false
 List of projects I'm working on, in no particular order:
 
 ## enclava.ai
-[enclava.ai](https://enclava.ai) - Privacy AI platform for companies to build and deploy AI applications while keeping data private and secure.
+- [enclava.ai](https://enclava.ai) - Privacy AI platform for companies to build and deploy AI applications while keeping data private and secure.
 
 ## nostr.net
 there are multiple projects Under nostr.net umbrella:
