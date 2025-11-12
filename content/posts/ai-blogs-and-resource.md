@@ -6,7 +6,7 @@ tags: ["AI"]
 draft: false
 ---
 
-The author curates a selection of thoughtful, long-form content sources in the AI space, noting that "in a world of explosive amount of content about AI" quality resources are valuable.
+In a world of explosive amount of content about AI and where NOT having an AI newsletter has become a rarity there are a few authors and sites I like to read for their more thoughtful and long form content:
 
 ## Recommended Resources
 

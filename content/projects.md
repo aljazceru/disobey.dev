@@ -28,4 +28,4 @@ there are multiple projects Under nostr.net umbrella:
 - [ungovernable.tech](https://ungovernable.tech) - A collection of resources on encryption, privacy tools, and decentralized technologies
 - [lightning-network.tech](https://www.lightning-network.tech/)  - Essential tools, guides, and communities for Bitcoin Lightning Network node operators.
 - [ark-protocol.com](https://ark-protocol.com) - A directory of Ark protocol resources, libraries, tools and applications
-
+- [cryptoanarchy.info](https://cryptoanarchy.info/) - A directory of cryptoanarchy links and resources
