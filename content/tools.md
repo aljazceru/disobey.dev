@@ -5,6 +5,8 @@ draft: false
 ---
 List of tools I've built and find useful, in no particular order:
 
+### EurSat
+[eursat.eu](https://eursat.eu) - Website to track performance of bitcoin vs euro.
 
 ### Ollama openrouter proxy
 [ollama-openrouter-proxy](https://github.com/aljazceru/ollama-openrouter-proxy) -  Ollama proxy that uses free models available on openrouter.
