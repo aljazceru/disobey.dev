@@ -6,9 +6,9 @@ draft: false
 ---
 
 
-No cookies, no banners, no analytics, no frameworks, no junk. Good old web 1.0. html + css + javascript. -> [timecovert.org](https://timeconvert.org/?ref=disobey.dev)
+No cookies, no banners, no analytics, no frameworks, no junk. Good old web 1.0. html + css + javascript. -> [timeconvert.org](https://timeconvert.org/?ref=disobey.dev)
 
-YesterdayA while back I've had one too many timestamp conversion cases to deal with while building some data ingestion pipeline and I've ended up creating this website to scratch my own itch.
+A while back I've had one too many timestamp conversion cases to deal with while building some data ingestion pipeline and I've ended up creating this website to scratch my own itch.
 
 I know epoch converter exists but it has tons of popups/cookie consent banners, you need to paste into the correct text box and it just feels bulky. I wanted something to just paste whatever time format I have and it will give me the alternatives.
 
