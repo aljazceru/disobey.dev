@@ -2,7 +2,7 @@
 title: "cryptoanarchy.info"
 date: 2024-11-29
 slug: "cryptoanarchy"
-tags: ["freedom", "cypherpunk"]
+tags: ["freedom", "cypherpunk", "cryptoanarchy", "directory"]
 draft: false
 ---
 

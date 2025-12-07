@@ -9,7 +9,7 @@ List of projects I'm working on, in no particular order:
 - [enclava.ai](https://enclava.ai) - Privacy AI platform for companies to build and deploy AI applications while keeping data private and secure.
 
 ## nostr.net
-there are multiple projects Under nostr.net umbrella:
+there are multiple projects under nostr.net umbrella:
 - [nostr.net](https://nostr.net/) - A go to location for all things nostr.
 - [nostr.at](https://nostr.at/) - Nostr web gateway.
 - [nostr.eu](https://nostr.eu) - Nostr web gateway localized for EU users (translations in most EU languages).
@@ -29,3 +29,4 @@ there are multiple projects Under nostr.net umbrella:
 - [lightning-network.tech](https://www.lightning-network.tech/)  - Essential tools, guides, and communities for Bitcoin Lightning Network node operators.
 - [ark-protocol.com](https://ark-protocol.com) - A directory of Ark protocol resources, libraries, tools and applications
 - [cryptoanarchy.info](https://cryptoanarchy.info/) - A directory of cryptoanarchy links and resources
+- [eursat.eu](https://eursat.eu) - Website to track performance of bitcoin vs euro
