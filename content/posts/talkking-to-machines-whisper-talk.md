@@ -5,7 +5,7 @@ slug: "talking-to-machines-or-how-i-created-whisper-talk"
 tags: ["ai", "tools","whisper"]
 draft: false
 ---
-(in case you just want the github link without reading the halucinations of my neural network - [here you go](https://github.com/aljazceru/whisper-talk))
+(in case you just want the github link without reading the hallucinations of my neural network - [here you go](https://github.com/aljazceru/whisper-talk))
 
 
 I hate voice memos. Mostly I hate to receive them. You can't quickly glance over to remember the content of the conversation, the key piece of information you need is hidden in a 3minute voice note. But I recently learned that talking to machines is quite practical. 
