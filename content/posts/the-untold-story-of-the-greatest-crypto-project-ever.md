@@ -9,7 +9,7 @@ draft: false
 
 If you only clicked on the post to tell me crypto sucks let me disappoint - crypto in this case stands for cryptography, as it is for a long time before shitcoins came into existence.
 
-Many of you might have read Paul Rosenberg's amazing [A lodging of wayfaring men](https://freemansperspective.com/product/a-lodging-of-wayfaring-men/?ref=disobey.dev). Some of you might even know that Max Hillebrand recently created an [audiobook version of it](https://freemansperspective.com/audiobook-a-lodging-of-wayfaring-men/?ref=disobey.dev).
+Many of you might have read Paul Rosenberg's amazing [A lodging of wayfaring men](https://freemansperspective.com/product/a-lodging-of-wayfaring-men/?ref=disobey.dev). Some of you might even know that Max Hillebrand recently created an [audiobook version of it](https://veraverba.com/product/a-lodging-of-wayfaring-men-audio-book/).
 
 But there is a story that predates that book, a real story that probably served as an inspiration for A lodging of wayfaring men. That story is called [The Untold Story of the Greatest Crypto Project Ever](https://freemansperspective.com/product/the-untold-story-of-the-greatest-crypto-project-ever-e-book/?ref=disobey.dev). If you are too cheap to buy it (you should support Paul, he is a legend!) there is a way to read it free as it was published as blog posts.
 
