@@ -5,7 +5,7 @@ slug: "how-to-run-goose-with-confidential-ai"
 tags: ["confidential ai", "ai", "privacy"]
 draft: false
 ---
-A quick tutorial for people who want to run [goose](github.com/block/goose/) but want it to keep your data confidential you generally have two options. First its to buy a good gpu to run a model locally, the second one is use advancement in trusted execution environments and use confidential AI backend with it. 
+A quick tutorial for people who want to run [goose](https://www.github.com/block/goose/) but want it to keep your data confidential you generally have two options. First its to buy a good gpu to run a model locally, the second one is use advancement in trusted execution environments and use confidential AI backend with it. 
 
 # How to do it
 
