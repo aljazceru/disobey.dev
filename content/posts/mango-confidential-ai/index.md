@@ -8,7 +8,12 @@ draft: false
 TLDR: No provider lock-in. No subscriptions. Own your data data. Bring your own key. Protect your chats. And delete them if forced to unlock the app. No tracking, no analytics. The app that serves you. 
 
 Privacy is dead. Long live privacy. Wrong. There are still a few of us out there that believe in it. A few that are trying to build software for users that value it. Software that works for the user, not against him. And that is how Mango was born.
-![](https://zsapk.b-cdn.net/blobs/bd853c0ef28328bcc8690febbc37469217afeca7e3da456f129433d36b816b4e.png)
+{{< figure
+  src="mango-hero.webp"
+  alt="Mango app promotional image"
+  align="center"
+  width="520"
+>}}
 
 
 The premise of Mango is simple: yet another chatgpt-like app (for now). But with a twist. It doesn't sell you a subscription. It works with only two providers for now: [Tinfoil](https://tinfoil.sh/) and [PPQ](https://ppq.ai/). More will be added. But not that many because there are very few out there who take confidential inference seriously. 
@@ -19,7 +24,15 @@ But thats not all. It also offers on device embeddings - this means you can add 
 
 It also has a few security features that are not so standard. It automatically locks the app after a period of inactivity so you need to type in the pin to unlock it. It also supports biometrics for the phones that have them. It also has a duress pin - in case somebody is trying to force you to unlock the app, you can use the duress pin to unlock it. The app will delete all the conversations and documents and insert some random conversation in there to make it look like nothing happened.
 
-![](https://zsapk.b-cdn.net/blobs/95df42cb7aba47234c4fcbe6c85dbb4c4df4896036e6ecde60ba1775db9baee4.png)
+
+{{< figure
+  src="mango-lock.webp"
+  alt="Mango app lock screen"
+  align="center"
+  width="300"
+>}}
+
+
 
 Currently its primarily available on android, desktop build works but needs a bit of love (only tested on linux). iOS is in the works but the lack of side loading makes it a bit more complicated since I'd need to beg the all mighty apple to let me open my kimono and publish it to the app store. Why would anyone use an ecosystem that doesn't let you actually do whatever you want with the hardware is another story.
 
