@@ -7,7 +7,7 @@ draft: false
 ---
 TLDR: No provider lock-in. No subscriptions. Own your data data. Bring your own key. Protect your chats. And delete them if forced to unlock the app. No tracking, no analytics. The app that serves you. 
 
-Privacy is dead. Long live privacy. Wrong. There are still a few of us out there that believe in it. A few that are trying to build software for users that value it. Software that works for the user, not against him. And that is how Mango was born.
+
 {{< figure
   src="mango-hero.webp"
   alt="Mango app promotional image"
@@ -15,10 +15,19 @@ Privacy is dead. Long live privacy. Wrong. There are still a few of us out there
   width="520"
 >}}
 
+Privacy is dead. Long live privacy. Wrong. There are still a few of us out there that believe in it. A few that are trying to build software for users that value it. Software that works for the user, not against him. And that is how Mango was born. 
 
 The premise of Mango is simple: yet another chatgpt-like app (for now). But with a twist. It doesn't sell you a subscription. It works with only two providers for now: [Tinfoil](https://tinfoil.sh/) and [PPQ](https://ppq.ai/). More will be added. But not that many because there are very few out there who take confidential inference seriously. 
 
 Mango works similarly than other AI apps you might have used before, but it has a few tricks up his sleeve. First and biggest one - confidential inference. Both providers currently available enable full remote attestation of their endpoints which Mango fully verifies itself. That means that the provider is providing cryptographic proofs of which software is running on their servers and in which environments it is running. That enables us to verify that their claims of confidential inference are actually true. What that means is that all the data you send to your AI agent remains confidential. The provider is not logging it, it is not gonna be used for training or to spy on you. It stays between you and your device.
+
+{{< rawhtml >}}
+<div class="post-gallery">
+  <img loading="lazy" src="screenshot-tools.png" alt="Mango app tools screen">
+  <img loading="lazy" src="screenshot-menu.png" alt="Mango app menu screen">
+  <img loading="lazy" src="screenshot-providers.png" alt="Mango app providers screen">
+</div>
+{{< /rawhtml >}}
 
 But thats not all. It also offers on device embeddings - this means you can add documents to Mango and it will act as a mini RAG so you can attach those documents to your conversations and have the AI agent use them to answer your questions. It also supports tool use, currently limited to brave search. 
 
