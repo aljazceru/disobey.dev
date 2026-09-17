@@ -4,7 +4,11 @@ slug: "about"
 draft: false
 ---
 
-Hello, my name is Aljaz Ceru - I do cool deep tech things. I've founded Enclava Labs to push the frontier of confidential computing and applications with [enclava.dev](https://enclava.dev) and [enclava.ai](https://enclava.ai). I'm also  building an applied AI lab called [Autonomica](https://autonomica.xyz) .I'm interesting in everything that pushes the quest for freedom one step forward.
+Hello, my name is Aljaz Ceru - I do cool deep tech things. 
+
+I've founded Enclava Labs to push the frontier of confidential computing and applications with [enclava.dev](https://enclava.dev) and [enclava.ai](https://enclava.ai). 
+
+I'm also  building an applied AI lab called [Autonomica](https://autonomica.xyz). I'm interested in everything that pushes the quest for freedom one step forward.
 
 I build lots of MVP's and do R&D for various companies. I also consult companies on Bitcoin, AI, nostr security and infrastructure.
 
