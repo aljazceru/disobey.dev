@@ -3,10 +3,20 @@ title: "Projects"
 slug: "projects"
 draft: false
 ---
-List of projects I'm working on, in no particular order:
+List of things I'm working on:
 
-## enclava.ai
-- [enclava.ai](https://enclava.ai) - Privacy AI platform for companies to build and deploy AI applications while keeping data private and secure.
+## autonomica.xyz
+- [Autonomica](https://autonomica.xyz) - An applied AI lab building companies that run themselves.
+
+## enclava labs
+- [enclava.dev](https://enclava.dev) - Confidential applications platform for developers/builders to deploy their confidential applications (heroku for confidential applications). 
+- [enclava.ai](https://enclava.ai) - Confidential AI platform for companies to build and deploy AI applications while keeping data private and secure.
+
+## confidentialInference.net 
+- [confidentialinference.net](https://confidentalinference.net)- Directory with  all things confidential inference: providers, pricing, models they offer, state of their attestation, historical data and more
+
+## Mango
+- [Mango](https://github.com/aljazceru/mango) - Mango is a confidential AI client for chatting with confidential inference providers from a local app. It focuses on security, privacy, and local-first capabilities. 
 
 ## nostr.net
 there are multiple projects under nostr.net umbrella:

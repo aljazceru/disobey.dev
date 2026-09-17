@@ -4,15 +4,17 @@ slug: "about"
 draft: false
 ---
 
-I do freedom tech stuff. I rant about lightning. I build AI and bitcoin stuff. I want to combine all of these (minus the ranting) into something that pushes the quest for freedom one step forward.
+Hello, my name is Aljaz Ceru - I do cool deep tech things. I've founded Enclava Labs to push the frontier of confidential computing and applications with [enclava.dev](https://enclava.dev) and [enclava.ai](https://enclava.ai). I'm also  building an applied AI lab called [Autonomica](https://autonomica.xyz) .I'm interesting in everything that pushes the quest for freedom one step forward.
 
 I build lots of MVP's and do R&D for various companies. I also consult companies on Bitcoin, AI, nostr security and infrastructure.
 
-I'm working on several [projects](https://disobey.dev/projects/), most notably [enclava.ai](https://enclava.ai) and [nostr.net](https://nostr.net). I'm also building lots of open source tools [things](https://github.com/aljazceru?ref=disobey.dev) and run a few [directories](https://disobey.dev/projects/#directories) about things I'm interested in.
+I'm working on several [projects](https://disobey.dev/projects/), most notably [nostr.net](https://nostr.net). I'm also building lots of open source tools [things](https://github.com/aljazceru?ref=disobey.dev) and run a few [directories](https://disobey.dev/projects/#directories) about things I'm interested in.
 
 Previously I've built (and since shutdown) a company [building tools to solve lightning node management](https://blog.bolt.observer/), started a  [Bitcoin meetup that turned into more than just acommunity](https://disobey.dev/posts/the-history-of-bitcoin-ljubljana/) and was  part of the experiment called SEC-01, short for [Sovereign Engineering Cohort](https://sovereignengineering.io/) where a bunch of us freedom tech pirates experimented with nostr and other technologies over the course of two months.
 
 ### Interviews, presentations and talks
+#### [Bitcoin Apps For Everyone with Danny Stagg, Aljaz, & Brianna | SLP714](https://www.youtube.com/watch?v=-RclEWVPjuE)
+
 #### [Bitcoin Atlantis 2024 - Sovereign engineering panel](http://www.youtube.com/watch?v=Yj_NRq_mzOw)
 
 #### [Bitcoin Rapid Fire: BoltObserver, Risks to Lightning, & The 'Value Enabled Web' w/ Aljaz Ceru](http://www.youtube.com/watch?v=cvlvTZaFZ1k)
@@ -25,9 +27,9 @@ Previously I've built (and since shutdown) a company [building tools to solve li
 
 #### [Observing the Lightning Network](http://www.youtube.com/watch?v=Qptlc-sKnTA)
 
+Confidential Computing: The missing Piece of Sovereing Infrastructure at Freedom Tech Summit 2026 | [slides](https://github.com/aljazceru/presentations/blob/main/FreedomTech-Summit-onfidential-computing-the-missing-piece-of-sovereign-infrastructure.pdf)
 
-
-Nostr 101 at Bitcoin Ljubljana 2023 | [slides](https://github.com/aljazceru/presentations/blob/main/nostr-bitcoin-ljubljana.pdf?)
+Nostr 101 at Bitcoin Ljubljana 2023 | [slides](https://github.com/aljazceru/presentations/blob/main/nostr-bitcoin-ljubljana.pdf)
 
 LSP stack overview at DevHackDay BTCPrague 2023 | [slides](https://github.com/aljazceru/presentations/blob/main/LSP-overview.pdf)
 
